@@ -1,0 +1,13 @@
+{
+  "name": "e-frontend",  
+  "version": "1.0.0",   
+  "description": "e-frontend",   
+  "author": {   
+    "name": "xijunyu",
+    "email": "310706768@qq.com"
+  },
+  "license": "ISC",    
+  "devDependencies": {    
+    "gulp": "~3.8.0"
+  }
+}
